@@ -7,27 +7,31 @@
     font-family: "m-semibold";
     src: url(Montserrat/static/Montserrat-SemiBold.ttf);
 }
+
 @font-face {
     font-family: "m-light";
     src: url(Montserrat/static/Montserrat-Light.ttf);
 }
+
 @font-face {
     font-family: "m-medium";
     src: url(Montserrat/static/Montserrat-Medium.ttf);
 }
+
 @font-face {
     font-family: "m-regular";
     src: url(Montserrat/static/Montserrat-Regular.ttf);
 }
 
-:root{
-    --green-color : #a8fbd3;
-    --mint-color : #4fb7b3;
-    --purple-color : #637ab9;
-    --navy-color : #31326f;
-    
+:root {
+    --green-color: #a8fbd3;
+    --mint-color: #4fb7b3;
+    --purple-color: #637ab9;
+    --navy-color: #31326f;
+
 
 }
+
 /*Side bar*/
 .sidebar {
     position: relative;
@@ -54,6 +58,7 @@
 }
 
 .dashboard {
-margin-top: 150px;
+    margin-top: 150px;
 }
+
 /*Side bar End*/
